@@ -1,0 +1,16 @@
+{
+"name" : "Relay",
+"icon" : "refinedstorage:relay",
+"category" : "refstoragemanual:networking",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Relay acts as $(l:cable)Cable$(), but can be turned on or off depending on the redstone configuration. Devices connected after the Relay will be on or off depending if the Relay is on."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:relay",
+"text" : "Crafting Recipe."
+}
+]
+}

@@ -1,0 +1,16 @@
+{
+"name" : "Storage Housing",
+"icon" : "refinedstorage:storage_housing",
+"category" : "refstoragemanual:disks_and_drives",
+"pages" : [
+{
+"type" : "text",
+"text" : "A Storage Housing is a $(l:storage_disks)Storage Disk$() or $(l:fluid_storage_disks)Fluid Storage Disk$() without any $(l:storage_parts)Storage Part$() or $(l:fluid_storage_parts)Fluid Storage Part$() assigned to it. The player can craft another Storage Disk or Fluid Storage Disk with this item by combining the Storage Housing with a Storage Part or Fluid Storage Part respectively."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:storage_housing",
+"text" : "Crafting Recipe."
+}
+]
+}

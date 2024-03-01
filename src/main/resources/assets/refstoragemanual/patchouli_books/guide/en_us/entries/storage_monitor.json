@@ -1,0 +1,17 @@
+{
+"name" : "Storage Monitor",
+"icon" : "refinedstorage:storage_monitor",
+"category" : "refstoragemanual:grids",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Storage Monitor is a block that displays the current amount of a certain item or fluid in your storage system. Mostly used for decoration."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:storage_monitor",
+"text" : "Crafting Recipe."
+}
+
+]
+}

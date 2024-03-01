@@ -1,0 +1,16 @@
+{
+"name" : "External Storage",
+"icon" : "refinedstorage:external_storage",
+"category" : "refstoragemanual:networking",
+"pages" : [
+{
+"type" : "text",
+"text" : "The External Storage is a block that provides the storage network with storage of the inventory or fluid tank in front of the device."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:external_storage",
+"text" : "Crafting Recipe."
+}
+]
+}

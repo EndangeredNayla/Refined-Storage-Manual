@@ -1,0 +1,31 @@
+{
+"name" : "Storage Parts",
+"icon" : "refinedstorage:64k_storage_part",
+"category" : "refstoragemanual:disks_and_drives",
+"pages" : [
+{
+"type" : "text",
+"text" : "Used for making $(l:storage_disks)Storage Disks$() and $(l:storage_blocks)Storage Blocks$()."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:1k_storage_part",
+"text" : "1k Storage Part's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:4k_storage_part",
+"text" : "4k Storage Part's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:16k_storage_part",
+"text" : "16k Storage Part's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:64k_storage_part",
+"text" : "64k Storage Part's Crafting Recipe."
+}
+]
+}

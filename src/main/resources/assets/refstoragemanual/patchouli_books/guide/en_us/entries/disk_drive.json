@@ -1,0 +1,17 @@
+{
+"name" : "Disk Drive",
+"icon" : "refinedstorage:disk_drive",
+"category" : "refstoragemanual:disks_and_drives",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Disk Drive is the block in which you store $(l:storage_disks)storage disks$() or $(l:fluid_storage_disks)fluid storage disks$()."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:disk_drive",
+"text" : "Crafting Recipe."
+}
+
+]
+}

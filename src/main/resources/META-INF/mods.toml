@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+
+[[mods]]
+modId="refstoragemanual"
+version="1.0.0"
+displayName="Refined Storage Manual"
+credits="Refined Developers for an Amazing Mod."
+displayURL="https://github.com/EndangeredNayla/Refined-Storage-Manual"
+authors="EndangeredNayla"
+
+[[dependencies.refstoragemanual]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20,]"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.refstoragemanual]]
+    modId="refinedstorage"
+    mandatory=true
+    versionRange="[1.12,]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,16 @@
+{
+"name" : "Network Transmitter",
+"icon" : "refinedstorage:network_transmitter",
+"category" : "refstoragemanual:networking",
+"pages" : [
+{
+"type" : "text",
+"text" : "A Network Transmitter sends a network signal to a $(l:receiver)Network Receiver$() that is specified in the given $(l:network_card)Network Card$(). In order for the Network Transmitter to work the $(l:control)Controller$() where the Network Transmitter is connected to has to be chunkloaded. Read $(l:distance)this$() for more."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:network_transmitter",
+"text" : "Crafting Recipe."
+}
+]
+}

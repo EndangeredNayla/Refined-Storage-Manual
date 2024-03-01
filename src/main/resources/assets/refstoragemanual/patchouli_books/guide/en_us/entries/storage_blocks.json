@@ -1,0 +1,34 @@
+{
+"name" : "Storage Blocks",
+"icon" : "refinedstorage:64k_storage_block",
+"category" : "refstoragemanual:disks_and_drives",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Storage Block is a block that provides the system with storage. It is similar to the $(l:storage_disks)Storage Disk$(), but can be placed in the world. When breaking the Storage Block, the items that it holds persist, so you won’t lose any of your items. The Storage Block won’t despawn when dropped in the world. You can also uncraft it by shift + right clicking with it in hand."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:1k_storage_block",
+"text" : "1k Storage Block Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:4k_storage_block",
+"text" : "4k Storage BlockCrafting Recipe."
+}
+,
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:16k_storage_block",
+"text" : "16k Storage Block Crafting Recipe."
+}
+,
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:64k_storage_block",
+"text" : "64k Storage Block Crafting Recipe."
+}
+
+]
+}

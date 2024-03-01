@@ -1,0 +1,17 @@
+{
+"name" : "Pattern",
+"icon" : "refinedstorage:pattern",
+"category" : "refstoragemanual:auto_crafting",
+"pages" : [
+{
+"type" : "text",
+"text" : "Used in $(l:pattern_grid)Pattern Grid$() for $(l:autocrafting)autocrafting$()."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:pattern",
+"text" : "Crafting Recipe."
+}
+
+]
+}

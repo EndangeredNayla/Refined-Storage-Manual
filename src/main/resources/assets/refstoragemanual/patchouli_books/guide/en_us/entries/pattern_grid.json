@@ -1,0 +1,17 @@
+{
+"name" : "Pattern Grid",
+"icon" : "refinedstorage:pattern_grid",
+"category" : "refstoragemanual:grids",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Pattern Grid is the same as a regular $(l:grid)Grid$(), but also allows for the creation of patterns."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:pattern_grid",
+"text" : "Crafting Recipe."
+}
+
+]
+}

@@ -1,0 +1,17 @@
+{
+"name" : "Portable Grid",
+"icon" : "refinedstorage:portable_grid",
+"category" : "refstoragemanual:grids",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Portable Grid is a portable storage that isn’t connected to a network. It allows you to interact with a $(l:storage_disks)Storage Disk$() while not being connected to a network. As soon as you insert a Storage Disk, you can access the contents of your Storage Disk in the grid view."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:portable_grid",
+"text" : "Crafting Recipe."
+}
+
+]
+}

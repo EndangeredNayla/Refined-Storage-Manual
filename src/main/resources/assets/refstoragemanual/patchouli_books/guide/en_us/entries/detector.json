@@ -1,0 +1,16 @@
+{
+"name" : "Detector",
+"icon" : "refinedstorage:detector",
+"category" : "refstoragemanual:networking",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Detector is a block that emits a redstone signal if an item or fluid count matches a given amount. It is also possible to be NBT or damage sensitive.$(br2)Types of criteria:$(br)> Emits signal when higher than given amount$(br)< Emits signal when lower than given amount$(br)= Emits signal when on given amount"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:detector",
+"text" : "Crafting Recipe."
+}
+]
+}

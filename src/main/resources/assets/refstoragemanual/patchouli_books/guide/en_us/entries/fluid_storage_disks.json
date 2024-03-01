@@ -1,0 +1,31 @@
+{
+"name" : "Fluid Storage Disks",
+"icon" : "refinedstorage:4096k_fluid_storage_disk",
+"category" : "refstoragemanual:disks_and_drives",
+"pages" : [
+{
+"type" : "text",
+"text" : "A Storage Disk is an item where items from the storage network are stored on. It has to be put in a $(l:disk_drive)Disk Drive$(). The Storage Disk won’t despawn when dropped in the world. You can also uncraft it by shift + right clicking with it in hand."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:64k_fluid_storage_disk",
+"text" : "64k Fluid Storage Disk's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:256k_fluid_storage_disk",
+"text" : "256k Fluid Storage Disk's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:1024k_fluid_storage_disk",
+"text" : "1024k Fluid Storage Disk's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:4096k_fluid_storage_disk",
+"text" : "4096k Fluid Storage Disk's Crafting Recipe."
+}
+]
+}

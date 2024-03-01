@@ -1,0 +1,17 @@
+{
+"name" : "Crafter Manager",
+"icon" : "refinedstorage:crafter_manager",
+"category" : "refstoragemanual:grids",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Crafter Manager is a block that allows you to see all your patterns in one GUI. This is very useful if your RS system is really big."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:crafter_manager",
+"text" : "Crafting Recipe."
+}
+
+]
+}

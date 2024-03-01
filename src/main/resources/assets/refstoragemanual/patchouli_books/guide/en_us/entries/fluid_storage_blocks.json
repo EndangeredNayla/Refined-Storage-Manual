@@ -1,0 +1,31 @@
+{
+"name" : "Fluid Storage Blocks",
+"icon" : "refinedstorage:4096k_fluid_storage_block",
+"category" : "refstoragemanual:disks_and_drives",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Fluid Storage Block is a block that provides the system with storage. It is similar to the $(l:fluid_storage_disks)Fluid Storage Disk$(), but can be placed in the world. When breaking the Fluid Storage Block, the fluids that it holds persist, so you won’t lose any of your fluids. The Fluid Storage Block won’t despawn when dropped in the world. You can also uncraft it by shift + right clicking with it in hand."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:64k_fluid_storage_block",
+"text" : "64k Fluid Storage Block's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:256k_fluid_storage_block",
+"text" : "256k Fluid Storage Block's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:1024k_fluid_storage_block",
+"text" : "1024k Fluid Storage Block's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:4096k_fluid_storage_block",
+"text" : "4096k Fluid Storage Block's Crafting Recipe."
+}
+]
+}

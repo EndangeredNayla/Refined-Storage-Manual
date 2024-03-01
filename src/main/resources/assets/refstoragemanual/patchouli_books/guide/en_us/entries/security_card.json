@@ -1,0 +1,16 @@
+{
+"name" : "Security Card",
+"icon" : "refinedstorage:security_card",
+"category" : "refstoragemanual:security",
+"pages" : [
+{
+"type" : "text",
+"text" : "Used for configuring $(l:sec_manager)Security Terminal$()."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:security_card",
+"text" : "Crafting Recipe."
+}
+]
+}

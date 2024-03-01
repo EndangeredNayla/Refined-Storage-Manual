@@ -1,0 +1,31 @@
+{
+"name" : "Fluid Storage Parts",
+"icon" : "refinedstorage:4096k_fluid_storage_part",
+"category" : "refstoragemanual:disks_and_drives",
+"pages" : [
+{
+"type" : "text",
+"text" : "Used for crafting $(l:fluid_storage_disks)Fluid Storage Disks$() and $(l:fluid_storage_blocks)Fluid Storage Blocks$()."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:64k_fluid_storage_part",
+"text" : "64k Fluid Storage Part's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:256k_fluid_storage_part",
+"text" : "256k Fluid Storage Part's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:1024k_fluid_storage_part",
+"text" : "1024k Fluid Storage Part's Crafting Recipe."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:4096k_fluid_storage_part",
+"text" : "4096k Fluid Storage Part's Crafting Recipe."
+}
+]
+}

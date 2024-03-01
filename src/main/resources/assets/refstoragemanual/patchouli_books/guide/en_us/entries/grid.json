@@ -1,0 +1,17 @@
+{
+"name" : "Grid",
+"icon" : "refinedstorage:grid",
+"category" : "refstoragemanual:grids",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Grid is a block that allows access to the items and fluids in the storage network. The player can extract items or fluids from the central GUI."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:grid",
+"text" : "Crafting Recipe."
+}
+
+]
+}

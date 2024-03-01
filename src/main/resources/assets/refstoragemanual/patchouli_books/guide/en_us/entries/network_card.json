@@ -1,0 +1,16 @@
+{
+"name" : "Network Card",
+"icon" : "refinedstorage:network_card",
+"category" : "refstoragemanual:tools",
+"pages" : [
+{
+"type" : "text",
+"text" : "Network Card is used for connecting a $(l:transmitter)Network Transmitter$() and $(l:receiver)Receiver$() ($(l:distance)read this for more$())"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:network_card",
+"text" : "Crafting Recipe."
+}
+]
+}

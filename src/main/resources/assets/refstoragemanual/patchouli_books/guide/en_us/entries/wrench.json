@@ -1,0 +1,16 @@
+{
+"name" : "Wrench",
+"icon" : "refinedstorage:wrench",
+"category" : "refstoragemanual:tools",
+"pages" : [
+{
+"type" : "text",
+"text" : "Used only for rotating blocks."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:wrench",
+"text" : "Crafting Recipe."
+}
+]
+}
