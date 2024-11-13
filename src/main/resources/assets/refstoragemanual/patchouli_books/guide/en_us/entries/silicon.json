@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Silicon is one of the main RS crafting getting_started. To make it you need to smelt Nether Quartz in a Furnace / $(l:smelter)Energized Smelter$()."
+"text" : "Silicon is one of the main RS crafting getting_started. To make it you need to smelt Nether Quartz in a Furnace."
 }
 ]
 }

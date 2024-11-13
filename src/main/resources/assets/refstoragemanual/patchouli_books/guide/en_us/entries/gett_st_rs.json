@@ -14,7 +14,7 @@
 },
 {
 "type" : "text",
-"text" : "A minimal setup$(br2)Step 1: $(l:control)The Controller$()$(br2)Craft the Controller. The Controller is the “core” of your storage network. You’ll be connecting all the Refined Storage devices to this block. The Controller needs which you can make with Mekanism. $(br2)Step 2: Storage and accessing your items$(br2)Craft a Disk Drive and a 1k Storage Disk to store your"
+"text" : "A minimal setup$(br2)Step 1: $(l:control)The Controller$()$(br2)Craft the Controller. The Controller is the “core” of your storage network. You’ll be connecting all the Refined Storage devices to this block. The Controller needs FE which you can make with Mekanism, Thermal Expansion or any FE generating mod. $(br2)Step 2: Storage and accessing your items$(br2)Craft a Disk Drive and a 1k Storage Disk to store your"
 },
 {
 "type" : "text",

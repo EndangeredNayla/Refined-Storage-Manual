@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Processors are ones of the main RS crafting getting_started. To make them you need to smelt a raw processor in a Furnace / $(l:smelter)Energized Smelter$()."
+"text" : "Processors are ones of the main RS crafting getting_started. To make them you need to smelt a raw processor in a Furnace."
 },
 {
 "type" : "crafting",
